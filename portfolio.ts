@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: "Sukhchand Kisku",
   title: "Hi all, I'm Sukhchand Kisku",
   description:
-    "Experienced Software Development Tech Lead with over 10 years in the industry, specializing in full-stack development using the MERN (MongoDB, Express, React, Node.js) tech stack. Proven ability to lead a team of 6 developers in building scalable, high-performance web applications, with a strong focus on clean code and Agile practices. Adept at architecting and delivering end-to-end solutions, enhancing application performance, and driving innovation through cutting-edge technologies. Skilled in cross-functional collaboration, mentoring junior developers, and ensuring timely delivery of projects that align with business objectives.",
+    "Senior Software Engineer with 10 Years of Experience Designing and Developing High-Performance Systems in React.js, Node.js, Express.js, MongoDB, and MySQL. Led a Team of 6 to Build Custom In-House Libraries, Metadata-Driven UIs, and a Core Platform for Application Deployments. Ready to Leverage Expertise in a Tech Lead Role.",
   resumeLink: "#",
 };
 
