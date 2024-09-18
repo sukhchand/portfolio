@@ -314,30 +314,6 @@ export const experience: ExperienceType[] = [
   }
 ];
 
-export const projects: ProjectType[] = [
-  {
-    name: "developer-portfolio",
-    desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
-  },
-  {
-    name: "Giebo",
-    desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-    link: "https://gibeo.io/",
-  },
-  {
-    name: "O Mejor Oferta",
-    desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-    link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
-  },
-  {
-    name: "Hooligan Culture",
-    desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-    link: "https://hooliganculture.com/",
-  },
-];
-
 export const feedbacks: FeedbackType[] = [
   {
     name: "Syed Jamal",
@@ -365,12 +341,10 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: "Sukhchand Kisku",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://portfolio-sukhchand.vercel.app/",
   keywords: [
     "Sukhchand",
     "Sukhchand Kisku",
-    "@1hanzla100",
-    "1hanzla100",
     "Portfolio",
     "Sukhchand Portfolio ",
     "Sukhchand Kisku Portfolio",
