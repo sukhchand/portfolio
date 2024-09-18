@@ -314,18 +314,42 @@ export const experience: ExperienceType[] = [
   }
 ];
 
+export const projects: ProjectType[] = [
+  {
+    name: "developer-portfolio",
+    desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
+    github: "https://github.com/sukhchand/portfolio.git",
+    link: "https://portfolio-sukhchand.vercel.app/",
+  },
+  {
+    name: "Giebo",
+    desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
+    link: "https://gibeo.io/",
+  },
+  {
+    name: "O Mejor Oferta",
+    desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
+    link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
+  },
+  {
+    name: "Hooligan Culture",
+    desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
+    link: "https://hooliganculture.com/",
+  },
+];
+
 export const feedbacks: FeedbackType[] = [
   {
     name: "Syed Jamal",
     role: "Frontend Developer at Meganos Software",
     feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Sukhchand is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
   },
   {
     name: "Wajahat Malek",
     role: "CEO at Duseca Software",
     feedback:
-      "Hanzla has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Hanzla is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Hanzla for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
+      "Sukhchand has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Sukhchand is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Sukhchand for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
   },
   {
     name: "Zaid Zaffar",
