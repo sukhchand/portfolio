@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Sukhchand Kisku",
   description:
     "Senior Software Engineer with 10 Years of Experience Designing and Developing High-Performance Systems in React.js, Node.js, Express.js, MongoDB, and MySQL. Led a Team of 6 to Build Custom In-House Libraries, Metadata-Driven UIs, and a Core Platform for Application Deployments. Ready to Leverage Expertise in a Tech Lead Role.",
-  resumeLink: "#",
+  resumeLink: "/Sukhchand_Resume.pdf",
 };
 
 export const openSource = {

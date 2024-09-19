@@ -3,6 +3,7 @@ import { greetings } from "../portfolio";
 import { Button, Container, Row, Col } from "reactstrap";
 import GreetingLottie from "../components/DisplayLottie";
 import SocialLinks from "../components/SocialLinks";
+import Link from "next/link";
 
 const Greetings = () => {
   useEffect(() => {
@@ -38,6 +39,7 @@ const Greetings = () => {
                         className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                         color="default"
                         href={greetings.resumeLink}
+                        target="_blank"
                       >
                         <span className="btn-inner--icon mr-1">
                           <i className="fa fa-file" />
